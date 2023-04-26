@@ -1,0 +1,39 @@
+Class Info
+
+Percipio: Introduction to Tableau
+	Syllabus supporting assets
+	Replay sessions
+
+SharePoint 
+	https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Ekw-whqmDbhIsuEZTY7usoEBG9GF3VttyetR_hMF9ZE1wg?e=XtlFUW   
+GitHub
+	https://github.com/Skillsoft-Content/TableauBootcamp
+
+Survey:	https://surveys.skillsoft.com/jfe/form/SV_cGdykihmaJRi0Yu 
+
+
+
+
+Zoom 
+	https://skillsoftbootcamp.zoom.us/j/96599018991?pwd=RXNta0RUZXZKYzdCejNPNm53Q3JTdz09
+	Passcode: 823472
+
+
+Accessing Tableau Lab
+	Log into Percipio 
+	Search for
+	Tableau Bootcamp Sandbox (Percipio)
+	Launch the lab environment
+Downloading Desktop Trial
+	14-day Trial is available here:
+	https://www.tableau.com/products/desktop/download 
+Class Files :
+	Go to Percipio Bootcamp Channel: Introduction to Tableau Bootcamp
+	Files are located under “Resources” drop-down
+SharePoint 
+	https://skillsoft.sharepoint.com/:f:/s/LiveBootcamp/Ekw-whqmDbhIsuEZTY7usoEBG9GF3VttyetR_hMF9ZE1wg?e=XtlFUW   
+GitHub:
+	https://github.com/Skillsoft-Content/TableauBootcamp
+
+
+https://www.tableau.com/learn/get-started

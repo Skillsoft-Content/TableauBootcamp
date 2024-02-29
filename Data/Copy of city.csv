@@ -1,0 +1,1001 @@
+ID,Name,CountryCode,District,Population
+1,Kabul,AFG,Kabol,1780000
+2,Qandahar,AFG,Qandahar,237500
+3,Herat,AFG,Herat,186800
+4,Mazar-e-Sharif,AFG,Balkh,127800
+5,Amsterdam,NLD,Noord-Holland,731200
+6,Rotterdam,NLD,Zuid-Holland,593321
+7,Haag,NLD,Zuid-Holland,440900
+8,Utrecht,NLD,Utrecht,234323
+9,Eindhoven,NLD,Noord-Brabant,201843
+10,Tilburg,NLD,Noord-Brabant,193238
+11,Groningen,NLD,Groningen,172701
+12,Breda,NLD,Noord-Brabant,160398
+13,Apeldoorn,NLD,Gelderland,153491
+14,Nijmegen,NLD,Gelderland,152463
+15,Enschede,NLD,Overijssel,149544
+16,Haarlem,NLD,Noord-Holland,148772
+17,Almere,NLD,Flevoland,142465
+18,Arnhem,NLD,Gelderland,138020
+19,Zaanstad,NLD,Noord-Holland,135621
+20,´s-Hertogenbosch,NLD,Noord-Brabant,129170
+21,Amersfoort,NLD,Utrecht,126270
+22,Maastricht,NLD,Limburg,122087
+23,Dordrecht,NLD,Zuid-Holland,119811
+24,Leiden,NLD,Zuid-Holland,117196
+25,Haarlemmermeer,NLD,Noord-Holland,110722
+26,Zoetermeer,NLD,Zuid-Holland,110214
+27,Emmen,NLD,Drenthe,105853
+28,Zwolle,NLD,Overijssel,105819
+29,Ede,NLD,Gelderland,101574
+30,Delft,NLD,Zuid-Holland,95268
+31,Heerlen,NLD,Limburg,95052
+32,Alkmaar,NLD,Noord-Holland,92713
+33,Willemstad,ANT,Curaçao,2345
+34,Tirana,ALB,Tirana,270000
+35,Alger,DZA,Alger,2168000
+36,Oran,DZA,Oran,609823
+37,Constantine,DZA,Constantine,443727
+38,Annaba,DZA,Annaba,222518
+39,Batna,DZA,Batna,183377
+40,Sétif,DZA,Sétif,179055
+41,"Sidi Bel Abbès",DZA,"Sidi Bel Abbès",153106
+42,Skikda,DZA,Skikda,128747
+43,Biskra,DZA,Biskra,128281
+44,"Blida (el-Boulaida)",DZA,Blida,127284
+45,Béjaïa,DZA,Béjaïa,117162
+46,Mostaganem,DZA,Mostaganem,115212
+47,Tébessa,DZA,Tébessa,112007
+48,"Tlemcen (Tilimsen)",DZA,Tlemcen,110242
+49,Béchar,DZA,Béchar,107311
+50,Tiaret,DZA,Tiaret,100118
+51,"Ech-Chleff (el-Asnam)",DZA,Chlef,96794
+52,Ghardaïa,DZA,Ghardaïa,89415
+53,Tafuna,ASM,Tutuila,5200
+54,Fagatogo,ASM,Tutuila,2323
+55,"Andorra la Vella",AND,"Andorra la Vella",21189
+56,Luanda,AGO,Luanda,2022000
+57,Huambo,AGO,Huambo,163100
+58,Lobito,AGO,Benguela,130000
+59,Benguela,AGO,Benguela,128300
+60,Namibe,AGO,Namibe,118200
+61,"South Hill",AIA,–,961
+62,"The Valley",AIA,–,595
+63,"Saint John´s",ATG,"St John",24000
+64,Dubai,ARE,Dubai,669181
+65,"Abu Dhabi",ARE,"Abu Dhabi",398695
+66,Sharja,ARE,Sharja,320095
+67,al-Ayn,ARE,"Abu Dhabi",225970
+68,Ajman,ARE,Ajman,114395
+69,"Buenos Aires",ARG,"Distrito Federal",2982146
+70,"La Matanza",ARG,"Buenos Aires",1266461
+71,Córdoba,ARG,Córdoba,1157507
+72,Rosario,ARG,"Santa Fé",907718
+73,"Lomas de Zamora",ARG,"Buenos Aires",622013
+74,Quilmes,ARG,"Buenos Aires",559249
+75,"Almirante Brown",ARG,"Buenos Aires",538918
+76,"La Plata",ARG,"Buenos Aires",521936
+77,"Mar del Plata",ARG,"Buenos Aires",512880
+78,"San Miguel de Tucumán",ARG,Tucumán,470809
+79,Lanús,ARG,"Buenos Aires",469735
+80,Merlo,ARG,"Buenos Aires",463846
+81,"General San Martín",ARG,"Buenos Aires",422542
+82,Salta,ARG,Salta,367550
+83,Moreno,ARG,"Buenos Aires",356993
+84,"Santa Fé",ARG,"Santa Fé",353063
+85,Avellaneda,ARG,"Buenos Aires",353046
+86,"Tres de Febrero",ARG,"Buenos Aires",352311
+87,Morón,ARG,"Buenos Aires",349246
+88,"Florencio Varela",ARG,"Buenos Aires",315432
+89,"San Isidro",ARG,"Buenos Aires",306341
+90,Tigre,ARG,"Buenos Aires",296226
+91,"Malvinas Argentinas",ARG,"Buenos Aires",290335
+92,"Vicente López",ARG,"Buenos Aires",288341
+93,Berazategui,ARG,"Buenos Aires",276916
+94,Corrientes,ARG,Corrientes,258103
+95,"San Miguel",ARG,"Buenos Aires",248700
+96,"Bahía Blanca",ARG,"Buenos Aires",239810
+97,"Esteban Echeverría",ARG,"Buenos Aires",235760
+98,Resistencia,ARG,Chaco,229212
+99,"José C. Paz",ARG,"Buenos Aires",221754
+100,Paraná,ARG,"Entre Rios",207041
+101,"Godoy Cruz",ARG,Mendoza,206998
+102,Posadas,ARG,Misiones,201273
+103,Guaymallén,ARG,Mendoza,200595
+104,"Santiago del Estero",ARG,"Santiago del Estero",189947
+105,"San Salvador de Jujuy",ARG,Jujuy,178748
+106,Hurlingham,ARG,"Buenos Aires",170028
+107,Neuquén,ARG,Neuquén,167296
+108,Ituzaingó,ARG,"Buenos Aires",158197
+109,"San Fernando",ARG,"Buenos Aires",153036
+110,Formosa,ARG,Formosa,147636
+111,"Las Heras",ARG,Mendoza,145823
+112,"La Rioja",ARG,"La Rioja",138117
+113,"San Fernando del Valle de Cata",ARG,Catamarca,134935
+114,"Río Cuarto",ARG,Córdoba,134355
+115,"Comodoro Rivadavia",ARG,Chubut,124104
+116,Mendoza,ARG,Mendoza,123027
+117,"San Nicolás de los Arroyos",ARG,"Buenos Aires",119302
+118,"San Juan",ARG,"San Juan",119152
+119,Escobar,ARG,"Buenos Aires",116675
+120,Concordia,ARG,"Entre Rios",116485
+121,Pilar,ARG,"Buenos Aires",113428
+122,"San Luis",ARG,"San Luis",110136
+123,Ezeiza,ARG,"Buenos Aires",99578
+124,"San Rafael",ARG,Mendoza,94651
+125,Tandil,ARG,"Buenos Aires",91101
+126,Yerevan,ARM,Yerevan,1248700
+127,Gjumri,ARM,Širak,211700
+128,Vanadzor,ARM,Lori,172700
+129,Oranjestad,ABW,–,29034
+130,Sydney,AUS,"New South Wales",3276207
+131,Melbourne,AUS,Victoria,2865329
+132,Brisbane,AUS,Queensland,1291117
+133,Perth,AUS,"West Australia",1096829
+134,Adelaide,AUS,"South Australia",978100
+135,Canberra,AUS,"Capital Region",322723
+136,"Gold Coast",AUS,Queensland,311932
+137,Newcastle,AUS,"New South Wales",270324
+138,"Central Coast",AUS,"New South Wales",227657
+139,Wollongong,AUS,"New South Wales",219761
+140,Hobart,AUS,Tasmania,126118
+141,Geelong,AUS,Victoria,125382
+142,Townsville,AUS,Queensland,109914
+143,Cairns,AUS,Queensland,92273
+144,Baku,AZE,Baki,1787800
+145,Gäncä,AZE,Gäncä,299300
+146,Sumqayit,AZE,Sumqayit,283000
+147,Mingäçevir,AZE,Mingäçevir,93900
+148,Nassau,BHS,"New Providence",172000
+149,al-Manama,BHR,al-Manama,148000
+150,Dhaka,BGD,Dhaka,3612850
+151,Chittagong,BGD,Chittagong,1392860
+152,Khulna,BGD,Khulna,663340
+153,Rajshahi,BGD,Rajshahi,294056
+154,Narayanganj,BGD,Dhaka,202134
+155,Rangpur,BGD,Rajshahi,191398
+156,Mymensingh,BGD,Dhaka,188713
+157,Barisal,BGD,Barisal,170232
+158,Tungi,BGD,Dhaka,168702
+159,Jessore,BGD,Khulna,139710
+160,Comilla,BGD,Chittagong,135313
+161,Nawabganj,BGD,Rajshahi,130577
+162,Dinajpur,BGD,Rajshahi,127815
+163,Bogra,BGD,Rajshahi,120170
+164,Sylhet,BGD,Sylhet,117396
+165,Brahmanbaria,BGD,Chittagong,109032
+166,Tangail,BGD,Dhaka,106004
+167,Jamalpur,BGD,Dhaka,103556
+168,Pabna,BGD,Rajshahi,103277
+169,Naogaon,BGD,Rajshahi,101266
+170,Sirajganj,BGD,Rajshahi,99669
+171,Narsinghdi,BGD,Dhaka,98342
+172,Saidpur,BGD,Rajshahi,96777
+173,Gazipur,BGD,Dhaka,96717
+174,Bridgetown,BRB,"St Michael",6070
+175,Antwerpen,BEL,Antwerpen,446525
+176,Gent,BEL,"East Flanderi",224180
+177,Charleroi,BEL,Hainaut,200827
+178,Liège,BEL,Liège,185639
+179,"Bruxelles [Brussel]",BEL,Bryssel,133859
+180,Brugge,BEL,"West Flanderi",116246
+181,Schaerbeek,BEL,Bryssel,105692
+182,Namur,BEL,Namur,105419
+183,Mons,BEL,Hainaut,90935
+184,"Belize City",BLZ,"Belize City",55810
+185,Belmopan,BLZ,Cayo,7105
+186,Cotonou,BEN,Atlantique,536827
+187,Porto-Novo,BEN,Ouémé,194000
+188,Djougou,BEN,Atacora,134099
+189,Parakou,BEN,Borgou,103577
+190,"Saint George",BMU,"Saint George´s",1800
+191,Hamilton,BMU,Hamilton,1200
+192,Thimphu,BTN,Thimphu,22000
+193,"Santa Cruz de la Sierra",BOL,"Santa Cruz",935361
+194,"La Paz",BOL,"La Paz",758141
+195,"El Alto",BOL,"La Paz",534466
+196,Cochabamba,BOL,Cochabamba,482800
+197,Oruro,BOL,Oruro,223553
+198,Sucre,BOL,Chuquisaca,178426
+199,Potosí,BOL,Potosí,140642
+200,Tarija,BOL,Tarija,125255
+201,Sarajevo,BIH,Federaatio,360000
+202,"Banja Luka",BIH,"Republika Srpska",143079
+203,Zenica,BIH,Federaatio,96027
+204,Gaborone,BWA,Gaborone,213017
+205,Francistown,BWA,Francistown,101805
+206,"São Paulo",BRA,"São Paulo",9968485
+207,"Rio de Janeiro",BRA,"Rio de Janeiro",5598953
+208,Salvador,BRA,Bahia,2302832
+209,"Belo Horizonte",BRA,"Minas Gerais",2139125
+210,Fortaleza,BRA,Ceará,2097757
+211,Brasília,BRA,"Distrito Federal",1969868
+212,Curitiba,BRA,Paraná,1584232
+213,Recife,BRA,Pernambuco,1378087
+214,"Porto Alegre",BRA,"Rio Grande do Sul",1314032
+215,Manaus,BRA,Amazonas,1255049
+216,Belém,BRA,Pará,1186926
+217,Guarulhos,BRA,"São Paulo",1095874
+218,Goiânia,BRA,Goiás,1056330
+219,Campinas,BRA,"São Paulo",950043
+220,"São Gonçalo",BRA,"Rio de Janeiro",869254
+221,"Nova Iguaçu",BRA,"Rio de Janeiro",862225
+222,"São Luís",BRA,Maranhão,837588
+223,Maceió,BRA,Alagoas,786288
+224,"Duque de Caxias",BRA,"Rio de Janeiro",746758
+225,"São Bernardo do Campo",BRA,"São Paulo",723132
+226,Teresina,BRA,Piauí,691942
+227,Natal,BRA,"Rio Grande do Norte",688955
+228,Osasco,BRA,"São Paulo",659604
+229,"Campo Grande",BRA,"Mato Grosso do Sul",649593
+230,"Santo André",BRA,"São Paulo",630073
+231,"João Pessoa",BRA,Paraíba,584029
+232,"Jaboatão dos Guararapes",BRA,Pernambuco,558680
+233,Contagem,BRA,"Minas Gerais",520801
+234,"São José dos Campos",BRA,"São Paulo",515553
+235,Uberlândia,BRA,"Minas Gerais",487222
+236,"Feira de Santana",BRA,Bahia,479992
+237,"Ribeirão Preto",BRA,"São Paulo",473276
+238,Sorocaba,BRA,"São Paulo",466823
+239,Niterói,BRA,"Rio de Janeiro",459884
+240,Cuiabá,BRA,"Mato Grosso",453813
+241,"Juiz de Fora",BRA,"Minas Gerais",450288
+242,Aracaju,BRA,Sergipe,445555
+243,"São João de Meriti",BRA,"Rio de Janeiro",440052
+244,Londrina,BRA,Paraná,432257
+245,Joinville,BRA,"Santa Catarina",428011
+246,"Belford Roxo",BRA,"Rio de Janeiro",425194
+247,Santos,BRA,"São Paulo",408748
+248,Ananindeua,BRA,Pará,400940
+249,"Campos dos Goytacazes",BRA,"Rio de Janeiro",398418
+250,Mauá,BRA,"São Paulo",375055
+251,Carapicuíba,BRA,"São Paulo",357552
+252,Olinda,BRA,Pernambuco,354732
+253,"Campina Grande",BRA,Paraíba,352497
+254,"São José do Rio Preto",BRA,"São Paulo",351944
+255,"Caxias do Sul",BRA,"Rio Grande do Sul",349581
+256,"Moji das Cruzes",BRA,"São Paulo",339194
+257,Diadema,BRA,"São Paulo",335078
+258,"Aparecida de Goiânia",BRA,Goiás,324662
+259,Piracicaba,BRA,"São Paulo",319104
+260,Cariacica,BRA,"Espírito Santo",319033
+261,"Vila Velha",BRA,"Espírito Santo",318758
+262,Pelotas,BRA,"Rio Grande do Sul",315415
+263,Bauru,BRA,"São Paulo",313670
+264,"Porto Velho",BRA,Rondônia,309750
+265,Serra,BRA,"Espírito Santo",302666
+266,Betim,BRA,"Minas Gerais",302108
+267,Jundíaí,BRA,"São Paulo",296127
+268,Canoas,BRA,"Rio Grande do Sul",294125
+269,Franca,BRA,"São Paulo",290139
+270,"São Vicente",BRA,"São Paulo",286848
+271,Maringá,BRA,Paraná,286461
+272,"Montes Claros",BRA,"Minas Gerais",286058
+273,Anápolis,BRA,Goiás,282197
+274,Florianópolis,BRA,"Santa Catarina",281928
+275,Petrópolis,BRA,"Rio de Janeiro",279183
+276,Itaquaquecetuba,BRA,"São Paulo",270874
+277,Vitória,BRA,"Espírito Santo",270626
+278,"Ponta Grossa",BRA,Paraná,268013
+279,"Rio Branco",BRA,Acre,259537
+280,"Foz do Iguaçu",BRA,Paraná,259425
+281,Macapá,BRA,Amapá,256033
+282,Ilhéus,BRA,Bahia,254970
+283,"Vitória da Conquista",BRA,Bahia,253587
+284,Uberaba,BRA,"Minas Gerais",249225
+285,Paulista,BRA,Pernambuco,248473
+286,Limeira,BRA,"São Paulo",245497
+287,Blumenau,BRA,"Santa Catarina",244379
+288,Caruaru,BRA,Pernambuco,244247
+289,Santarém,BRA,Pará,241771
+290,"Volta Redonda",BRA,"Rio de Janeiro",240315
+291,"Novo Hamburgo",BRA,"Rio Grande do Sul",239940
+292,Caucaia,BRA,Ceará,238738
+293,"Santa Maria",BRA,"Rio Grande do Sul",238473
+294,Cascavel,BRA,Paraná,237510
+295,Guarujá,BRA,"São Paulo",237206
+296,"Ribeirão das Neves",BRA,"Minas Gerais",232685
+297,"Governador Valadares",BRA,"Minas Gerais",231724
+298,Taubaté,BRA,"São Paulo",229130
+299,Imperatriz,BRA,Maranhão,224564
+300,Gravataí,BRA,"Rio Grande do Sul",223011
+301,Embu,BRA,"São Paulo",222223
+302,Mossoró,BRA,"Rio Grande do Norte",214901
+303,"Várzea Grande",BRA,"Mato Grosso",214435
+304,Petrolina,BRA,Pernambuco,210540
+305,Barueri,BRA,"São Paulo",208426
+306,Viamão,BRA,"Rio Grande do Sul",207557
+307,Ipatinga,BRA,"Minas Gerais",206338
+308,Juazeiro,BRA,Bahia,201073
+309,"Juazeiro do Norte",BRA,Ceará,199636
+310,"Taboão da Serra",BRA,"São Paulo",197550
+311,"São José dos Pinhais",BRA,Paraná,196884
+312,Magé,BRA,"Rio de Janeiro",196147
+313,Suzano,BRA,"São Paulo",195434
+314,"São Leopoldo",BRA,"Rio Grande do Sul",189258
+315,Marília,BRA,"São Paulo",188691
+316,"São Carlos",BRA,"São Paulo",187122
+317,Sumaré,BRA,"São Paulo",186205
+318,"Presidente Prudente",BRA,"São Paulo",185340
+319,Divinópolis,BRA,"Minas Gerais",185047
+320,"Sete Lagoas",BRA,"Minas Gerais",182984
+321,"Rio Grande",BRA,"Rio Grande do Sul",182222
+322,Itabuna,BRA,Bahia,182148
+323,Jequié,BRA,Bahia,179128
+324,Arapiraca,BRA,Alagoas,178988
+325,Colombo,BRA,Paraná,177764
+326,Americana,BRA,"São Paulo",177409
+327,Alvorada,BRA,"Rio Grande do Sul",175574
+328,Araraquara,BRA,"São Paulo",174381
+329,Itaboraí,BRA,"Rio de Janeiro",173977
+330,"Santa Bárbara d´Oeste",BRA,"São Paulo",171657
+331,"Nova Friburgo",BRA,"Rio de Janeiro",170697
+332,Jacareí,BRA,"São Paulo",170356
+333,Araçatuba,BRA,"São Paulo",169303
+334,"Barra Mansa",BRA,"Rio de Janeiro",168953
+335,"Praia Grande",BRA,"São Paulo",168434
+336,Marabá,BRA,Pará,167795
+337,Criciúma,BRA,"Santa Catarina",167661
+338,"Boa Vista",BRA,Roraima,167185
+339,"Passo Fundo",BRA,"Rio Grande do Sul",166343
+340,Dourados,BRA,"Mato Grosso do Sul",164716
+341,"Santa Luzia",BRA,"Minas Gerais",164704
+342,"Rio Claro",BRA,"São Paulo",163551
+343,Maracanaú,BRA,Ceará,162022
+344,Guarapuava,BRA,Paraná,160510
+345,Rondonópolis,BRA,"Mato Grosso",155115
+346,"São José",BRA,"Santa Catarina",155105
+347,"Cachoeiro de Itapemirim",BRA,"Espírito Santo",155024
+348,Nilópolis,BRA,"Rio de Janeiro",153383
+349,Itapevi,BRA,"São Paulo",150664
+350,"Cabo de Santo Agostinho",BRA,Pernambuco,149964
+351,Camaçari,BRA,Bahia,149146
+352,Sobral,BRA,Ceará,146005
+353,Itajaí,BRA,"Santa Catarina",145197
+354,Chapecó,BRA,"Santa Catarina",144158
+355,Cotia,BRA,"São Paulo",140042
+356,Lages,BRA,"Santa Catarina",139570
+357,"Ferraz de Vasconcelos",BRA,"São Paulo",139283
+358,Indaiatuba,BRA,"São Paulo",135968
+359,Hortolândia,BRA,"São Paulo",135755
+360,Caxias,BRA,Maranhão,133980
+361,"São Caetano do Sul",BRA,"São Paulo",133321
+362,Itu,BRA,"São Paulo",132736
+363,"Nossa Senhora do Socorro",BRA,Sergipe,131351
+364,Parnaíba,BRA,Piauí,129756
+365,"Poços de Caldas",BRA,"Minas Gerais",129683
+366,Teresópolis,BRA,"Rio de Janeiro",128079
+367,Barreiras,BRA,Bahia,127801
+368,Castanhal,BRA,Pará,127634
+369,Alagoinhas,BRA,Bahia,126820
+370,"Itapecerica da Serra",BRA,"São Paulo",126672
+371,Uruguaiana,BRA,"Rio Grande do Sul",126305
+372,Paranaguá,BRA,Paraná,126076
+373,Ibirité,BRA,"Minas Gerais",125982
+374,Timon,BRA,Maranhão,125812
+375,Luziânia,BRA,Goiás,125597
+376,Macaé,BRA,"Rio de Janeiro",125597
+377,"Teófilo Otoni",BRA,"Minas Gerais",124489
+378,Moji-Guaçu,BRA,"São Paulo",123782
+379,Palmas,BRA,Tocantins,121919
+380,Pindamonhangaba,BRA,"São Paulo",121904
+381,"Francisco Morato",BRA,"São Paulo",121197
+382,Bagé,BRA,"Rio Grande do Sul",120793
+383,"Sapucaia do Sul",BRA,"Rio Grande do Sul",120217
+384,"Cabo Frio",BRA,"Rio de Janeiro",119503
+385,Itapetininga,BRA,"São Paulo",119391
+386,"Patos de Minas",BRA,"Minas Gerais",119262
+387,Camaragibe,BRA,Pernambuco,118968
+388,"Bragança Paulista",BRA,"São Paulo",116929
+389,Queimados,BRA,"Rio de Janeiro",115020
+390,Araguaína,BRA,Tocantins,114948
+391,Garanhuns,BRA,Pernambuco,114603
+392,"Vitória de Santo Antão",BRA,Pernambuco,113595
+393,"Santa Rita",BRA,Paraíba,113135
+394,Barbacena,BRA,"Minas Gerais",113079
+395,Abaetetuba,BRA,Pará,111258
+396,Jaú,BRA,"São Paulo",109965
+397,"Lauro de Freitas",BRA,Bahia,109236
+398,"Franco da Rocha",BRA,"São Paulo",108964
+399,"Teixeira de Freitas",BRA,Bahia,108441
+400,Varginha,BRA,"Minas Gerais",108314
+401,"Ribeirão Pires",BRA,"São Paulo",108121
+402,Sabará,BRA,"Minas Gerais",107781
+403,Catanduva,BRA,"São Paulo",107761
+404,"Rio Verde",BRA,Goiás,107755
+405,Botucatu,BRA,"São Paulo",107663
+406,Colatina,BRA,"Espírito Santo",107354
+407,"Santa Cruz do Sul",BRA,"Rio Grande do Sul",106734
+408,Linhares,BRA,"Espírito Santo",106278
+409,Apucarana,BRA,Paraná,105114
+410,Barretos,BRA,"São Paulo",104156
+411,Guaratinguetá,BRA,"São Paulo",103433
+412,Cachoeirinha,BRA,"Rio Grande do Sul",103240
+413,Codó,BRA,Maranhão,103153
+414,"Jaraguá do Sul",BRA,"Santa Catarina",102580
+415,Cubatão,BRA,"São Paulo",102372
+416,Itabira,BRA,"Minas Gerais",102217
+417,Itaituba,BRA,Pará,101320
+418,Araras,BRA,"São Paulo",101046
+419,Resende,BRA,"Rio de Janeiro",100627
+420,Atibaia,BRA,"São Paulo",100356
+421,"Pouso Alegre",BRA,"Minas Gerais",100028
+422,Toledo,BRA,Paraná,99387
+423,Crato,BRA,Ceará,98965
+424,Passos,BRA,"Minas Gerais",98570
+425,Araguari,BRA,"Minas Gerais",98399
+426,"São José de Ribamar",BRA,Maranhão,98318
+427,Pinhais,BRA,Paraná,98198
+428,Sertãozinho,BRA,"São Paulo",98140
+429,"Conselheiro Lafaiete",BRA,"Minas Gerais",97507
+430,"Paulo Afonso",BRA,Bahia,97291
+431,"Angra dos Reis",BRA,"Rio de Janeiro",96864
+432,Eunápolis,BRA,Bahia,96610
+433,Salto,BRA,"São Paulo",96348
+434,Ourinhos,BRA,"São Paulo",96291
+435,Parnamirim,BRA,"Rio Grande do Norte",96210
+436,Jacobina,BRA,Bahia,96131
+437,"Coronel Fabriciano",BRA,"Minas Gerais",95933
+438,Birigui,BRA,"São Paulo",94685
+439,Tatuí,BRA,"São Paulo",93897
+440,Ji-Paraná,BRA,Rondônia,93346
+441,Bacabal,BRA,Maranhão,93121
+442,Cametá,BRA,Pará,92779
+443,Guaíba,BRA,"Rio Grande do Sul",92224
+444,"São Lourenço da Mata",BRA,Pernambuco,91999
+445,"Santana do Livramento",BRA,"Rio Grande do Sul",91779
+446,Votorantim,BRA,"São Paulo",91777
+447,"Campo Largo",BRA,Paraná,91203
+448,Patos,BRA,Paraíba,90519
+449,Ituiutaba,BRA,"Minas Gerais",90507
+450,Corumbá,BRA,"Mato Grosso do Sul",90111
+451,Palhoça,BRA,"Santa Catarina",89465
+452,"Barra do Piraí",BRA,"Rio de Janeiro",89388
+453,"Bento Gonçalves",BRA,"Rio Grande do Sul",89254
+454,Poá,BRA,"São Paulo",89236
+455,"Águas Lindas de Goiás",BRA,Goiás,89200
+456,London,GBR,England,7285000
+457,Birmingham,GBR,England,1013000
+458,Glasgow,GBR,Scotland,619680
+459,Liverpool,GBR,England,461000
+460,Edinburgh,GBR,Scotland,450180
+461,Sheffield,GBR,England,431607
+462,Manchester,GBR,England,430000
+463,Leeds,GBR,England,424194
+464,Bristol,GBR,England,402000
+465,Cardiff,GBR,Wales,321000
+466,Coventry,GBR,England,304000
+467,Leicester,GBR,England,294000
+468,Bradford,GBR,England,289376
+469,Belfast,GBR,"North Ireland",287500
+470,Nottingham,GBR,England,287000
+471,"Kingston upon Hull",GBR,England,262000
+472,Plymouth,GBR,England,253000
+473,Stoke-on-Trent,GBR,England,252000
+474,Wolverhampton,GBR,England,242000
+475,Derby,GBR,England,236000
+476,Swansea,GBR,Wales,230000
+477,Southampton,GBR,England,216000
+478,Aberdeen,GBR,Scotland,213070
+479,Northampton,GBR,England,196000
+480,Dudley,GBR,England,192171
+481,Portsmouth,GBR,England,190000
+482,"Newcastle upon Tyne",GBR,England,189150
+483,Sunderland,GBR,England,183310
+484,Luton,GBR,England,183000
+485,Swindon,GBR,England,180000
+486,Southend-on-Sea,GBR,England,176000
+487,Walsall,GBR,England,174739
+488,Bournemouth,GBR,England,162000
+489,Peterborough,GBR,England,156000
+490,Brighton,GBR,England,156124
+491,Blackpool,GBR,England,151000
+492,Dundee,GBR,Scotland,146690
+493,"West Bromwich",GBR,England,146386
+494,Reading,GBR,England,148000
+495,"Oldbury/Smethwick (Warley)",GBR,England,145542
+496,Middlesbrough,GBR,England,145000
+497,Huddersfield,GBR,England,143726
+498,Oxford,GBR,England,144000
+499,Poole,GBR,England,141000
+500,Bolton,GBR,England,139020
+501,Blackburn,GBR,England,140000
+502,Newport,GBR,Wales,139000
+503,Preston,GBR,England,135000
+504,Stockport,GBR,England,132813
+505,Norwich,GBR,England,124000
+506,Rotherham,GBR,England,121380
+507,Cambridge,GBR,England,121000
+508,Watford,GBR,England,113080
+509,Ipswich,GBR,England,114000
+510,Slough,GBR,England,112000
+511,Exeter,GBR,England,111000
+512,Cheltenham,GBR,England,106000
+513,Gloucester,GBR,England,107000
+514,"Saint Helens",GBR,England,106293
+515,"Sutton Coldfield",GBR,England,106001
+516,York,GBR,England,104425
+517,Oldham,GBR,England,103931
+518,Basildon,GBR,England,100924
+519,Worthing,GBR,England,100000
+520,Chelmsford,GBR,England,97451
+521,Colchester,GBR,England,96063
+522,Crawley,GBR,England,97000
+523,Gillingham,GBR,England,92000
+524,Solihull,GBR,England,94531
+525,Rochdale,GBR,England,94313
+526,Birkenhead,GBR,England,93087
+527,Worcester,GBR,England,95000
+528,Hartlepool,GBR,England,92000
+529,Halifax,GBR,England,91069
+530,Woking/Byfleet,GBR,England,92000
+531,Southport,GBR,England,90959
+532,Maidstone,GBR,England,90878
+533,Eastbourne,GBR,England,90000
+534,Grimsby,GBR,England,89000
+535,"Saint Helier",GBR,Jersey,27523
+536,Douglas,GBR,–,23487
+537,"Road Town",VGB,Tortola,8000
+538,"Bandar Seri Begawan",BRN,"Brunei and Muara",21484
+539,Sofija,BGR,"Grad Sofija",1122302
+540,Plovdiv,BGR,Plovdiv,342584
+541,Varna,BGR,Varna,299801
+542,Burgas,BGR,Burgas,195255
+543,Ruse,BGR,Ruse,166467
+544,"Stara Zagora",BGR,Haskovo,147939
+545,Pleven,BGR,Lovec,121952
+546,Sliven,BGR,Burgas,105530
+547,Dobric,BGR,Varna,100399
+548,Šumen,BGR,Varna,94686
+549,Ouagadougou,BFA,Kadiogo,824000
+550,Bobo-Dioulasso,BFA,Houet,300000
+551,Koudougou,BFA,Boulkiemdé,105000
+552,Bujumbura,BDI,Bujumbura,300000
+553,"George Town",CYM,"Grand Cayman",19600
+554,"Santiago de Chile",CHL,Santiago,4703954
+555,"Puente Alto",CHL,Santiago,386236
+556,"Viña del Mar",CHL,Valparaíso,312493
+557,Valparaíso,CHL,Valparaíso,293800
+558,Talcahuano,CHL,Bíobío,277752
+559,Antofagasta,CHL,Antofagasta,251429
+560,"San Bernardo",CHL,Santiago,241910
+561,Temuco,CHL,"La Araucanía",233041
+562,Concepción,CHL,Bíobío,217664
+563,Rancagua,CHL,O´Higgins,212977
+564,Arica,CHL,Tarapacá,189036
+565,Talca,CHL,Maule,187557
+566,Chillán,CHL,Bíobío,178182
+567,Iquique,CHL,Tarapacá,177892
+568,"Los Angeles",CHL,Bíobío,158215
+569,"Puerto Montt",CHL,"Los Lagos",152194
+570,Coquimbo,CHL,Coquimbo,143353
+571,Osorno,CHL,"Los Lagos",141468
+572,"La Serena",CHL,Coquimbo,137409
+573,Calama,CHL,Antofagasta,137265
+574,Valdivia,CHL,"Los Lagos",133106
+575,"Punta Arenas",CHL,Magallanes,125631
+576,Copiapó,CHL,Atacama,120128
+577,Quilpué,CHL,Valparaíso,118857
+578,Curicó,CHL,Maule,115766
+579,Ovalle,CHL,Coquimbo,94854
+580,Coronel,CHL,Bíobío,93061
+581,"San Pedro de la Paz",CHL,Bíobío,91684
+582,Melipilla,CHL,Santiago,91056
+583,Avarua,COK,Rarotonga,11900
+584,"San José",CRI,"San José",339131
+585,Djibouti,DJI,Djibouti,383000
+586,Roseau,DMA,"St George",16243
+587,"Santo Domingo de Guzmán",DOM,"Distrito Nacional",1609966
+588,"Santiago de los Caballeros",DOM,Santiago,365463
+589,"La Romana",DOM,"La Romana",140204
+590,"San Pedro de Macorís",DOM,"San Pedro de Macorís",124735
+591,"San Francisco de Macorís",DOM,Duarte,108485
+592,"San Felipe de Puerto Plata",DOM,"Puerto Plata",89423
+593,Guayaquil,ECU,Guayas,2070040
+594,Quito,ECU,Pichincha,1573458
+595,Cuenca,ECU,Azuay,270353
+596,Machala,ECU,"El Oro",210368
+597,"Santo Domingo de los Colorados",ECU,Pichincha,202111
+598,Portoviejo,ECU,Manabí,176413
+599,Ambato,ECU,Tungurahua,169612
+600,Manta,ECU,Manabí,164739
+601,"Duran [Eloy Alfaro]",ECU,Guayas,152514
+602,Ibarra,ECU,Imbabura,130643
+603,Quevedo,ECU,"Los Ríos",129631
+604,Milagro,ECU,Guayas,124177
+605,Loja,ECU,Loja,123875
+606,Ríobamba,ECU,Chimborazo,123163
+607,Esmeraldas,ECU,Esmeraldas,123045
+608,Cairo,EGY,Kairo,6789479
+609,Alexandria,EGY,Aleksandria,3328196
+610,Giza,EGY,Giza,2221868
+611,"Shubra al-Khayma",EGY,al-Qalyubiya,870716
+612,"Port Said",EGY,"Port Said",469533
+613,Suez,EGY,Suez,417610
+614,"al-Mahallat al-Kubra",EGY,al-Gharbiya,395402
+615,Tanta,EGY,al-Gharbiya,371010
+616,al-Mansura,EGY,al-Daqahliya,369621
+617,Luxor,EGY,Luxor,360503
+618,Asyut,EGY,Asyut,343498
+619,Bahtim,EGY,al-Qalyubiya,275807
+620,Zagazig,EGY,al-Sharqiya,267351
+621,al-Faiyum,EGY,al-Faiyum,260964
+622,Ismailia,EGY,Ismailia,254477
+623,"Kafr al-Dawwar",EGY,al-Buhayra,231978
+624,Assuan,EGY,Assuan,219017
+625,Damanhur,EGY,al-Buhayra,212203
+626,al-Minya,EGY,al-Minya,201360
+627,"Bani Suwayf",EGY,"Bani Suwayf",172032
+628,Qina,EGY,Qina,171275
+629,Sawhaj,EGY,Sawhaj,170125
+630,"Shibin al-Kawm",EGY,al-Minufiya,159909
+631,"Bulaq al-Dakrur",EGY,Giza,148787
+632,Banha,EGY,al-Qalyubiya,145792
+633,"Warraq al-Arab",EGY,Giza,127108
+634,"Kafr al-Shaykh",EGY,"Kafr al-Shaykh",124819
+635,Mallawi,EGY,al-Minya,119283
+636,Bilbays,EGY,al-Sharqiya,113608
+637,"Mit Ghamr",EGY,al-Daqahliya,101801
+638,al-Arish,EGY,"Shamal Sina",100447
+639,Talkha,EGY,al-Daqahliya,97700
+640,Qalyub,EGY,al-Qalyubiya,97200
+641,Jirja,EGY,Sawhaj,95400
+642,Idfu,EGY,Qina,94200
+643,al-Hawamidiya,EGY,Giza,91700
+644,Disuq,EGY,"Kafr al-Shaykh",91300
+645,"San Salvador",SLV,"San Salvador",415346
+646,"Santa Ana",SLV,"Santa Ana",139389
+647,Mejicanos,SLV,"San Salvador",138800
+648,Soyapango,SLV,"San Salvador",129800
+649,"San Miguel",SLV,"San Miguel",127696
+650,"Nueva San Salvador",SLV,"La Libertad",98400
+651,Apopa,SLV,"San Salvador",88800
+652,Asmara,ERI,Maekel,431000
+653,Madrid,ESP,Madrid,2879052
+654,Barcelona,ESP,Katalonia,1503451
+655,Valencia,ESP,Valencia,739412
+656,Sevilla,ESP,Andalusia,701927
+657,Zaragoza,ESP,Aragonia,603367
+658,Málaga,ESP,Andalusia,530553
+659,Bilbao,ESP,Baskimaa,357589
+660,"Las Palmas de Gran Canaria",ESP,"Canary Islands",354757
+661,Murcia,ESP,Murcia,353504
+662,"Palma de Mallorca",ESP,Balears,326993
+663,Valladolid,ESP,"Castilla and León",319998
+664,Córdoba,ESP,Andalusia,311708
+665,Vigo,ESP,Galicia,283670
+666,"Alicante [Alacant]",ESP,Valencia,272432
+667,Gijón,ESP,Asturia,267980
+668,"L´Hospitalet de Llobregat",ESP,Katalonia,247986
+669,Granada,ESP,Andalusia,244767
+670,"A Coruña (La Coruña)",ESP,Galicia,243402
+671,Vitoria-Gasteiz,ESP,Baskimaa,217154
+672,"Santa Cruz de Tenerife",ESP,"Canary Islands",213050
+673,Badalona,ESP,Katalonia,209635
+674,Oviedo,ESP,Asturia,200453
+675,Móstoles,ESP,Madrid,195351
+676,"Elche [Elx]",ESP,Valencia,193174
+677,Sabadell,ESP,Katalonia,184859
+678,Santander,ESP,Cantabria,184165
+679,"Jerez de la Frontera",ESP,Andalusia,182660
+680,"Pamplona [Iruña]",ESP,Navarra,180483
+681,"Donostia-San Sebastián",ESP,Baskimaa,179208
+682,Cartagena,ESP,Murcia,177709
+683,Leganés,ESP,Madrid,173163
+684,Fuenlabrada,ESP,Madrid,171173
+685,Almería,ESP,Andalusia,169027
+686,Terrassa,ESP,Katalonia,168695
+687,"Alcalá de Henares",ESP,Madrid,164463
+688,Burgos,ESP,"Castilla and León",162802
+689,Salamanca,ESP,"Castilla and León",158720
+690,Albacete,ESP,"Kastilia-La Mancha",147527
+691,Getafe,ESP,Madrid,145371
+692,Cádiz,ESP,Andalusia,142449
+693,Alcorcón,ESP,Madrid,142048
+694,Huelva,ESP,Andalusia,140583
+695,León,ESP,"Castilla and León",139809
+696,"Castellón de la Plana [Castell",ESP,Valencia,139712
+697,Badajoz,ESP,Extremadura,136613
+698,"[San Cristóbal de] la Laguna",ESP,"Canary Islands",127945
+699,Logroño,ESP,"La Rioja",127093
+700,"Santa Coloma de Gramenet",ESP,Katalonia,120802
+701,Tarragona,ESP,Katalonia,113016
+702,"Lleida (Lérida)",ESP,Katalonia,112207
+703,Jaén,ESP,Andalusia,109247
+704,"Ourense (Orense)",ESP,Galicia,109120
+705,Mataró,ESP,Katalonia,104095
+706,Algeciras,ESP,Andalusia,103106
+707,Marbella,ESP,Andalusia,101144
+708,Barakaldo,ESP,Baskimaa,98212
+709,"Dos Hermanas",ESP,Andalusia,94591
+710,"Santiago de Compostela",ESP,Galicia,93745
+711,"Torrejón de Ardoz",ESP,Madrid,92262
+712,"Cape Town",ZAF,"Western Cape",2352121
+713,Soweto,ZAF,Gauteng,904165
+714,Johannesburg,ZAF,Gauteng,756653
+715,"Port Elizabeth",ZAF,"Eastern Cape",752319
+716,Pretoria,ZAF,Gauteng,658630
+717,Inanda,ZAF,KwaZulu-Natal,634065
+718,Durban,ZAF,KwaZulu-Natal,566120
+719,Vanderbijlpark,ZAF,Gauteng,468931
+720,"Kempton Park",ZAF,Gauteng,442633
+721,Alberton,ZAF,Gauteng,410102
+722,Pinetown,ZAF,KwaZulu-Natal,378810
+723,Pietermaritzburg,ZAF,KwaZulu-Natal,370190
+724,Benoni,ZAF,Gauteng,365467
+725,Randburg,ZAF,Gauteng,341288
+726,Umlazi,ZAF,KwaZulu-Natal,339233
+727,Bloemfontein,ZAF,"Free State",334341
+728,Vereeniging,ZAF,Gauteng,328535
+729,Wonderboom,ZAF,Gauteng,283289
+730,Roodepoort,ZAF,Gauteng,279340
+731,Boksburg,ZAF,Gauteng,262648
+732,Klerksdorp,ZAF,"North West",261911
+733,Soshanguve,ZAF,Gauteng,242727
+734,Newcastle,ZAF,KwaZulu-Natal,222993
+735,"East London",ZAF,"Eastern Cape",221047
+736,Welkom,ZAF,"Free State",203296
+737,Kimberley,ZAF,"Northern Cape",197254
+738,Uitenhage,ZAF,"Eastern Cape",192120
+739,Chatsworth,ZAF,KwaZulu-Natal,189885
+740,Mdantsane,ZAF,"Eastern Cape",182639
+741,Krugersdorp,ZAF,Gauteng,181503
+742,Botshabelo,ZAF,"Free State",177971
+743,Brakpan,ZAF,Gauteng,171363
+744,Witbank,ZAF,Mpumalanga,167183
+745,Oberholzer,ZAF,Gauteng,164367
+746,Germiston,ZAF,Gauteng,164252
+747,Springs,ZAF,Gauteng,162072
+748,Westonaria,ZAF,Gauteng,159632
+749,Randfontein,ZAF,Gauteng,120838
+750,Paarl,ZAF,"Western Cape",105768
+751,Potchefstroom,ZAF,"North West",101817
+752,Rustenburg,ZAF,"North West",97008
+753,Nigel,ZAF,Gauteng,96734
+754,George,ZAF,"Western Cape",93818
+755,Ladysmith,ZAF,KwaZulu-Natal,89292
+756,"Addis Abeba",ETH,"Addis Abeba",2495000
+757,"Dire Dawa",ETH,"Dire Dawa",164851
+758,Nazret,ETH,Oromia,127842
+759,Gonder,ETH,Amhara,112249
+760,Dese,ETH,Amhara,97314
+761,Mekele,ETH,Tigray,96938
+762,"Bahir Dar",ETH,Amhara,96140
+763,Stanley,FLK,"East Falkland",1636
+764,Suva,FJI,Central,77366
+765,Quezon,PHL,"National Capital Reg",2173831
+766,Manila,PHL,"National Capital Reg",1581082
+767,Kalookan,PHL,"National Capital Reg",1177604
+768,Davao,PHL,"Southern Mindanao",1147116
+769,Cebu,PHL,"Central Visayas",718821
+770,Zamboanga,PHL,"Western Mindanao",601794
+771,Pasig,PHL,"National Capital Reg",505058
+772,Valenzuela,PHL,"National Capital Reg",485433
+773,"Las Piñas",PHL,"National Capital Reg",472780
+774,Antipolo,PHL,"Southern Tagalog",470866
+775,Taguig,PHL,"National Capital Reg",467375
+776,"Cagayan de Oro",PHL,"Northern Mindanao",461877
+777,Parañaque,PHL,"National Capital Reg",449811
+778,Makati,PHL,"National Capital Reg",444867
+779,Bacolod,PHL,"Western Visayas",429076
+780,"General Santos",PHL,"Southern Mindanao",411822
+781,Marikina,PHL,"National Capital Reg",391170
+782,Dasmariñas,PHL,"Southern Tagalog",379520
+783,Muntinlupa,PHL,"National Capital Reg",379310
+784,Iloilo,PHL,"Western Visayas",365820
+785,Pasay,PHL,"National Capital Reg",354908
+786,Malabon,PHL,"National Capital Reg",338855
+787,"San José del Monte",PHL,"Central Luzon",315807
+788,Bacoor,PHL,"Southern Tagalog",305699
+789,Iligan,PHL,"Central Mindanao",285061
+790,Calamba,PHL,"Southern Tagalog",281146
+791,Mandaluyong,PHL,"National Capital Reg",278474
+792,Butuan,PHL,Caraga,267279
+793,Angeles,PHL,"Central Luzon",263971
+794,Tarlac,PHL,"Central Luzon",262481
+795,Mandaue,PHL,"Central Visayas",259728
+796,Baguio,PHL,CAR,252386
+797,Batangas,PHL,"Southern Tagalog",247588
+798,Cainta,PHL,"Southern Tagalog",242511
+799,"San Pedro",PHL,"Southern Tagalog",231403
+800,Navotas,PHL,"National Capital Reg",230403
+801,Cabanatuan,PHL,"Central Luzon",222859
+802,"San Fernando",PHL,"Central Luzon",221857
+803,Lipa,PHL,"Southern Tagalog",218447
+804,Lapu-Lapu,PHL,"Central Visayas",217019
+805,"San Pablo",PHL,"Southern Tagalog",207927
+806,Biñan,PHL,"Southern Tagalog",201186
+807,Taytay,PHL,"Southern Tagalog",198183
+808,Lucena,PHL,"Southern Tagalog",196075
+809,Imus,PHL,"Southern Tagalog",195482
+810,Olongapo,PHL,"Central Luzon",194260
+811,Binangonan,PHL,"Southern Tagalog",187691
+812,"Santa Rosa",PHL,"Southern Tagalog",185633
+813,Tagum,PHL,"Southern Mindanao",179531
+814,Tacloban,PHL,"Eastern Visayas",178639
+815,Malolos,PHL,"Central Luzon",175291
+816,Mabalacat,PHL,"Central Luzon",171045
+817,Cotabato,PHL,"Central Mindanao",163849
+818,Meycauayan,PHL,"Central Luzon",163037
+819,"Puerto Princesa",PHL,"Southern Tagalog",161912
+820,Legazpi,PHL,Bicol,157010
+821,Silang,PHL,"Southern Tagalog",156137
+822,Ormoc,PHL,"Eastern Visayas",154297
+823,"San Carlos",PHL,Ilocos,154264
+824,Kabankalan,PHL,"Western Visayas",149769
+825,Talisay,PHL,"Central Visayas",148110
+826,Valencia,PHL,"Northern Mindanao",147924
+827,Calbayog,PHL,"Eastern Visayas",147187
+828,"Santa Maria",PHL,"Central Luzon",144282
+829,Pagadian,PHL,"Western Mindanao",142515
+830,Cadiz,PHL,"Western Visayas",141954
+831,Bago,PHL,"Western Visayas",141721
+832,Toledo,PHL,"Central Visayas",141174
+833,Naga,PHL,Bicol,137810
+834,"San Mateo",PHL,"Southern Tagalog",135603
+835,Panabo,PHL,"Southern Mindanao",133950
+836,Koronadal,PHL,"Southern Mindanao",133786
+837,Marawi,PHL,"Central Mindanao",131090
+838,Dagupan,PHL,Ilocos,130328
+839,Sagay,PHL,"Western Visayas",129765
+840,Roxas,PHL,"Western Visayas",126352
+841,Lubao,PHL,"Central Luzon",125699
+842,Digos,PHL,"Southern Mindanao",125171
+843,"San Miguel",PHL,"Central Luzon",123824
+844,Malaybalay,PHL,"Northern Mindanao",123672
+845,Tuguegarao,PHL,"Cagayan Valley",120645
+846,Ilagan,PHL,"Cagayan Valley",119990
+847,Baliuag,PHL,"Central Luzon",119675
+848,Surigao,PHL,Caraga,118534
+849,"San Carlos",PHL,"Western Visayas",118259
+850,"San Juan del Monte",PHL,"National Capital Reg",117680
+851,Tanauan,PHL,"Southern Tagalog",117539
+852,Concepcion,PHL,"Central Luzon",115171
+853,"Rodriguez (Montalban)",PHL,"Southern Tagalog",115167
+854,Sariaya,PHL,"Southern Tagalog",114568
+855,Malasiqui,PHL,Ilocos,113190
+856,"General Mariano Alvarez",PHL,"Southern Tagalog",112446
+857,Urdaneta,PHL,Ilocos,111582
+858,Hagonoy,PHL,"Central Luzon",111425
+859,"San Jose",PHL,"Southern Tagalog",111009
+860,Polomolok,PHL,"Southern Mindanao",110709
+861,Santiago,PHL,"Cagayan Valley",110531
+862,Tanza,PHL,"Southern Tagalog",110517
+863,Ozamis,PHL,"Northern Mindanao",110420
+864,Mexico,PHL,"Central Luzon",109481
+865,"San Jose",PHL,"Central Luzon",108254
+866,Silay,PHL,"Western Visayas",107722
+867,"General Trias",PHL,"Southern Tagalog",107691
+868,Tabaco,PHL,Bicol,107166
+869,Cabuyao,PHL,"Southern Tagalog",106630
+870,Calapan,PHL,"Southern Tagalog",105910
+871,Mati,PHL,"Southern Mindanao",105908
+872,Midsayap,PHL,"Central Mindanao",105760
+873,Cauayan,PHL,"Cagayan Valley",103952
+874,Gingoog,PHL,"Northern Mindanao",102379
+875,Dumaguete,PHL,"Central Visayas",102265
+876,"San Fernando",PHL,Ilocos,102082
+877,Arayat,PHL,"Central Luzon",101792
+878,"Bayawan (Tulong)",PHL,"Central Visayas",101391
+879,Kidapawan,PHL,"Central Mindanao",101205
+880,"Daraga (Locsin)",PHL,Bicol,101031
+881,Marilao,PHL,"Central Luzon",101017
+882,Malita,PHL,"Southern Mindanao",100000
+883,Dipolog,PHL,"Western Mindanao",99862
+884,Cavite,PHL,"Southern Tagalog",99367
+885,Danao,PHL,"Central Visayas",98781
+886,Bislig,PHL,Caraga,97860
+887,Talavera,PHL,"Central Luzon",97329
+888,Guagua,PHL,"Central Luzon",96858
+889,Bayambang,PHL,Ilocos,96609
+890,Nasugbu,PHL,"Southern Tagalog",96113
+891,Baybay,PHL,"Eastern Visayas",95630
+892,Capas,PHL,"Central Luzon",95219
+893,"Sultan Kudarat",PHL,ARMM,94861
+894,Laoag,PHL,Ilocos,94466
+895,Bayugan,PHL,Caraga,93623
+896,Malungon,PHL,"Southern Mindanao",93232
+897,"Santa Cruz",PHL,"Southern Tagalog",92694
+898,Sorsogon,PHL,Bicol,92512
+899,Candelaria,PHL,"Southern Tagalog",92429
+900,Ligao,PHL,Bicol,90603
+901,Tórshavn,FRO,Streymoyar,14542
+902,Libreville,GAB,Estuaire,419000
+903,Serekunda,GMB,"Kombo St Mary",102600
+904,Banjul,GMB,Banjul,42326
+905,Tbilisi,GEO,Tbilisi,1235200
+906,Kutaisi,GEO,Imereti,240900
+907,Rustavi,GEO,"Kvemo Kartli",155400
+908,Batumi,GEO,"Adzaria [Atšara]",137700
+909,Sohumi,GEO,"Abhasia [Aphazeti]",111700
+910,Accra,GHA,"Greater Accra",1070000
+911,Kumasi,GHA,Ashanti,385192
+912,Tamale,GHA,Northern,151069
+913,Tema,GHA,"Greater Accra",109975
+914,Sekondi-Takoradi,GHA,Western,103653
+915,Gibraltar,GIB,–,27025
+916,"Saint George´s",GRD,"St George",4621
+917,Nuuk,GRL,Kitaa,13445
+918,"Les Abymes",GLP,Grande-Terre,62947
+919,Basse-Terre,GLP,Basse-Terre,12433
+920,Tamuning,GUM,–,9500
+921,Agaña,GUM,–,1139
+922,"Ciudad de Guatemala",GTM,Guatemala,823301
+923,Mixco,GTM,Guatemala,209791
+924,"Villa Nueva",GTM,Guatemala,101295
+925,Quetzaltenango,GTM,Quetzaltenango,90801
+926,Conakry,GIN,Conakry,1090610
+927,Bissau,GNB,Bissau,241000
+928,Georgetown,GUY,Georgetown,254000
+929,Port-au-Prince,HTI,Ouest,884472
+930,Carrefour,HTI,Ouest,290204
+931,Delmas,HTI,Ouest,240429
+932,Le-Cap-Haïtien,HTI,Nord,102233
+933,Tegucigalpa,HND,"Distrito Central",813900
+934,"San Pedro Sula",HND,Cortés,383900
+935,"La Ceiba",HND,Atlántida,89200
+936,"Kowloon and New Kowloon",HKG,"Kowloon and New Kowl",1987996
+937,Victoria,HKG,Hongkong,1312637
+938,Longyearbyen,SJM,Länsimaa,1438
+939,Jakarta,IDN,"Jakarta Raya",9604900
+940,Surabaya,IDN,"East Java",2663820
+941,Bandung,IDN,"West Java",2429000
+942,Medan,IDN,"Sumatera Utara",1843919
+943,Palembang,IDN,"Sumatera Selatan",1222764
+944,Tangerang,IDN,"West Java",1198300
+945,Semarang,IDN,"Central Java",1104405
+946,"Ujung Pandang",IDN,"Sulawesi Selatan",1060257
+947,Malang,IDN,"East Java",716862
+948,"Bandar Lampung",IDN,Lampung,680332
+949,Bekasi,IDN,"West Java",644300
+950,Padang,IDN,"Sumatera Barat",534474
+951,Surakarta,IDN,"Central Java",518600
+952,Banjarmasin,IDN,"Kalimantan Selatan",482931
+953,"Pekan Baru",IDN,Riau,438638
+954,Denpasar,IDN,Bali,435000
+955,Yogyakarta,IDN,Yogyakarta,418944
+956,Pontianak,IDN,"Kalimantan Barat",409632
+957,Samarinda,IDN,"Kalimantan Timur",399175
+958,Jambi,IDN,Jambi,385201
+959,Depok,IDN,"West Java",365200
+960,Cimahi,IDN,"West Java",344600
+961,Balikpapan,IDN,"Kalimantan Timur",338752
+962,Manado,IDN,"Sulawesi Utara",332288
+963,Mataram,IDN,"Nusa Tenggara Barat",306600
+964,Pekalongan,IDN,"Central Java",301504
+965,Tegal,IDN,"Central Java",289744
+966,Bogor,IDN,"West Java",285114
+967,Ciputat,IDN,"West Java",270800
+968,Pondokgede,IDN,"West Java",263200
+969,Cirebon,IDN,"West Java",254406
+970,Kediri,IDN,"East Java",253760
+971,Ambon,IDN,Molukit,249312
+972,Jember,IDN,"East Java",218500
+973,Cilacap,IDN,"Central Java",206900
+974,Cimanggis,IDN,"West Java",205100
+975,"Pematang Siantar",IDN,"Sumatera Utara",203056
+976,Purwokerto,IDN,"Central Java",202500
+977,Ciomas,IDN,"West Java",187400
+978,Tasikmalaya,IDN,"West Java",179800
+979,Madiun,IDN,"East Java",171532
+980,Bengkulu,IDN,Bengkulu,146439
+981,Karawang,IDN,"West Java",145000
+982,"Banda Aceh",IDN,Aceh,143409
+983,Palu,IDN,"Sulawesi Tengah",142800
+984,Pasuruan,IDN,"East Java",134019
+985,Kupang,IDN,"Nusa Tenggara Timur",129300
+986,"Tebing Tinggi",IDN,"Sumatera Utara",129300
+987,"Percut Sei Tuan",IDN,"Sumatera Utara",129000
+988,Binjai,IDN,"Sumatera Utara",127222
+989,Sukabumi,IDN,"West Java",125766
+990,Waru,IDN,"East Java",124300
+991,"Pangkal Pinang",IDN,"Sumatera Selatan",124000
+992,Magelang,IDN,"Central Java",123800
+993,Blitar,IDN,"East Java",122600
+994,Serang,IDN,"West Java",122400
+995,Probolinggo,IDN,"East Java",120770
+996,Cilegon,IDN,"West Java",117000
+997,Cianjur,IDN,"West Java",114300
+998,Ciparay,IDN,"West Java",111500
+999,Lhokseumawe,IDN,Aceh,109600
+1000,Taman,IDN,"East Java",107000
